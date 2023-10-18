@@ -7,7 +7,7 @@ on:
     paths:
       - "src/content/docs/**"
   repository_dispatch:
-    types: [docs]
+    types: [src/content/docs]
   gollum:
 
 env:
