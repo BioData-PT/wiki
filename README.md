@@ -1,3 +1,5 @@
 # BioData.pt Wiki
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+This repository hosts the BioData.pt Wiki.
+
+[<kbd> <br> Open Wiki <br> </kbd>][https://github.com/BioData-PT/wiki/wiki]
